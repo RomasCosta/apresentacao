@@ -2,7 +2,7 @@
   background-color: #d54751;
 }
 
-#logo {
+#logo-nav {
   background-color: #ef9a48;
 }
 
@@ -12,7 +12,7 @@
 }
 
 #img-logo {
-  background-color: #4DA394;
+  background-color: #4da394;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -22,7 +22,7 @@
   background-color: #ef9a48;
 }
 
-img {
+#banner-topo {
   border-radius: 5px;
 }
 
@@ -47,26 +47,19 @@ h2 {
 }
 
 .card-body {
-  background-color: #4DA394;
+  background-color: #4da394;
   color: #ffffff;
 }
 
 .btn {
-  background-color: #FFFCC7;
+  background-color: #fffcc7;
 }
 
-.carousel-caption h5 {
-  font-size: 80px;
-  color: #ffc107;
-  text-shadow: 2px 2px 2px black;
-}
-
-#imagem-rodape {
-  padding: 10px;
+#texto-img-rodape {
+  font-size: 30px;
 }
 
 #rodape {
   background-color: #d54751;
   color: #ffffff;
-  justify-content: center;
 }
