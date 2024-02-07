@@ -1,7 +1,3 @@
-#corpo {
-  background-color: #4DA394;
-}
-
 #header {
   background-color: #d54751;
 }
@@ -12,6 +8,14 @@
 
 #logo-name {
   font-size: 30px;
+  margin: 5px;
+}
+
+#img-logo {
+  background-color: #4DA394;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
 }
 
 #navbarSupportedContent {
@@ -42,8 +46,27 @@ h2 {
   font-weight: 600;
 }
 
+.card-body {
+  background-color: #4DA394;
+  color: #ffffff;
+}
+
+.btn {
+  background-color: #FFFCC7;
+}
+
 .carousel-caption h5 {
   font-size: 80px;
   color: #ffc107;
   text-shadow: 2px 2px 2px black;
+}
+
+#imagem-rodape {
+  padding: 10px;
+}
+
+#rodape {
+  background-color: #d54751;
+  color: #ffffff;
+  justify-content: center;
 }
