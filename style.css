@@ -1,0 +1,49 @@
+#corpo {
+  background-color: #4DA394;
+}
+
+#header {
+  background-color: #d54751;
+}
+
+#logo {
+  background-color: #ef9a48;
+}
+
+#logo-name {
+  font-size: 30px;
+}
+
+#navbarSupportedContent {
+  background-color: #ef9a48;
+}
+
+img {
+  border-radius: 5px;
+}
+
+header p {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 63px;
+  color: #303030;
+  padding: 15px;
+  color: wheat;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+}
+
+.carousel-caption h5 {
+  font-size: 80px;
+  color: #ffc107;
+  text-shadow: 2px 2px 2px black;
+}
