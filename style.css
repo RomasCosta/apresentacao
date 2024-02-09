@@ -1,4 +1,10 @@
-#header {
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Share+Tech&display=swap');
+
+body {
+  font-family: Share Tech, Courier, monospace;
+}
+
+#home {
   background-color: #d54751;
 }
 
@@ -23,12 +29,18 @@
 }
 
 #banner-topo {
-  border-radius: 5px;
+  border-radius: 50%;
+  background-color: #4da394;
 }
 
 header p {
   color: #ffffff;
   font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+  color: #070707;
 }
 
 h1 {
@@ -46,13 +58,22 @@ h2 {
   font-weight: 600;
 }
 
+h4 {
+  font-size: 75px;
+  border-radius: 5px;
+}
+
+#minha-introducao {
+  border-radius: 5px;
+}
+
+.contato-item {
+  list-style: none;
+}
+
 .card-body {
   background-color: #4da394;
   color: #ffffff;
-}
-
-.btn {
-  background-color: #fffcc7;
 }
 
 #texto-img-rodape {
